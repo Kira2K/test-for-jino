@@ -1,19 +1,9 @@
-# jino
+# test-for-jino
 
-## Project setup
-```
-npm install
-```
+Здравствуйте. Я выполнил оба таска, они находятся в файлах task1.vue и task2.vue, открываются по маршрутам /task1 и /task2. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Пояснения: 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1) Я выбрал Vue, так как имею на нём много опыта и выполнение на нём поставленной задачи было для меня быстрее, чем на нативном js. Также сэкономил время на компиляции SCSS-частей.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2) Только закончив проект я обнаружил, что Vue3 временно не поддерживается IE11, поддержка остальных браузерах присутствует.
